@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://github.com/evapatel123">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=0891b2&fontSize=54&height=90&width=538&text=Hello!%20I'm%20Eva" alt="Hello! I&#39;m Eva" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=180&section=header&text=Hello!%20I'm%20Eva&fontColor=ffffff&fontSize=45" alt="Hello! I'm Eva" />
 </p>
 
 <p align="center">
@@ -10,10 +8,9 @@
 
 ### 🚀 About Me
 
-🔭 &nbsp;I'm currently working on **an application**  
-🌱 &nbsp;I'm currently learning **Rust, Java and advanced SQL**  
-👯 &nbsp;I'm looking to collaborate on **more interesting projects and hackathons**  
-😄 &nbsp;Pronouns: **she/her**
+🔭 &nbsp;I'm currently working on **an application** 🌱 &nbsp;I'm currently learning **Rust, Java and advanced SQL** 👯 &nbsp;I'm looking to collaborate on **more interesting projects and hackathons** 😄 &nbsp;Pronouns: **she/her**
+
+---
 
 ### 🛠️ Tech Stack
 
@@ -50,18 +47,32 @@
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
 </p>
 
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=evapatel123&show_icons=true&theme=tokyonight&title_color=0891b2&icon_color=0891b2&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=evapatel123&layout=compact&theme=tokyonight&title_color=0891b2&icon_color=0891b2&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+  <table align="center">
+    <tr>
+      <td>
+        <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=evapatel123&show_icons=true&theme=tokyonight&title_color=0891b2&icon_color=0891b2&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+      </td>
+      <td>
+        <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=evapatel123&layout=compact&theme=tokyonight&title_color=0891b2&icon_color=0891b2&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+      </td>
+    </tr>
+  </table>
 </p>
+
+---
 
 ### 📈 Contribution Graph
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=evapatel123&bg_color=00000000&color=0891b2&line=0891b2&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
+
+---
 
 ### 💭 Dev Quote
 
@@ -71,4 +82,3 @@
 
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/evapatel123">evapatel123</a></i></p>
-
