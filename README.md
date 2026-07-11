@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-🔭 &nbsp;I'm currently working on **a real-time collaboration engine**  
+🔭 &nbsp;I'm currently working on **an application**  
 🌱 &nbsp;I'm currently learning **Rust, Java and advanced SQL**  
 👯 &nbsp;I'm looking to collaborate on **more interesting projects and hackathons**  
 😄 &nbsp;Pronouns: **she/her**
