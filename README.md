@@ -12,6 +12,7 @@
 🌱 &nbsp;I'm currently learning **Rust, Java and advanced SQL**  
 👯 &nbsp;I'm looking to collaborate on **more interesting projects and hackathons**  
 😄 &nbsp;Pronouns: **she/her**
+⚡ &nbsp;Fun fact: **I am also a graphic designer**
 
 ---
 
