@@ -10,10 +10,10 @@
 
 🔭 &nbsp;I'm currently working on **an application**  
 🌱 &nbsp;I'm currently learning **Rust, Java and advanced SQL**  
-👯 &nbsp;I'm looking to collaborate on **more interesting projects and hackathons**  
+👯 &nbsp;I'm looking to collaborate on **more interesting projects**  
 😄 &nbsp;Pronouns: **she/her**  
-⚡ &nbsp;Fun fact: **I am also a graphic designer**
----
+⚡ &nbsp;Fun fact: **I am also a graphic designer and a starting-off technical writer**
+
 
 ### 🛠️ Tech Stack
 
