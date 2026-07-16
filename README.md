@@ -14,8 +14,7 @@
 😄 &nbsp;Pronouns: **she/her**  
 ⚡ &nbsp;Fun fact: **I am also a graphic designer and a starting-off technical writer**
 
-Check out my Latest blogs: https://evapatel123.hashnode.dev/the-scary-parts-of-vibe-coding-nobody-talks-about,
-https://evapatel123.hashnode.dev/who-is-actually-auditing-your-ai-the-quiet-horror-of-vibe-coded-security
+Check out my Latest blogs! : https://hashnode.com/@evapatel123
 
 ### 🛠️ Tech Stack
 
