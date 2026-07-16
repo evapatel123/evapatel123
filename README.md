@@ -12,8 +12,8 @@
 🌱 &nbsp;I'm currently learning **Rust, Java and advanced SQL**  
 👯 &nbsp;I'm looking to collaborate on **more interesting projects and hackathons**  
 😄 &nbsp;Pronouns: **she/her**  
-⚡ &nbsp;Fun fact: **I am also a graphic designer**
-
+⚡ &nbsp;Fun fact: **I am also a graphic designer and a starting-off technical writer**
+🌱 &nbsp;Other links: **Check out one of my blogs: https://evapatel123.hashnode.dev/the-scary-parts-of-vibe-coding-nobody-talks-about**
 ---
 
 ### 🛠️ Tech Stack
