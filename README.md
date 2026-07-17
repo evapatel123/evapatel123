@@ -8,10 +8,9 @@
 </p>
 -->
 
-<table width="100%">
-<tr>
-<td background="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZhcXk5dmFpdWVxNjhvYm1wZzhldW9icTdocjM4dnd2ZXFka3BvOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7qiNpc9fp8kAMPUM/giphy.gif" width="10"></td>
-<td>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.gif" width="100%" height="8px" />
+</p
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=180&section=header&text=Hello!%20I'm%20Eva&fontColor=ffffff&fontSize=45" alt="Hello! I'm Eva" />
