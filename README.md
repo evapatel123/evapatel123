@@ -1,5 +1,3 @@
-<img src="https://user-images.githubusercontent.com/74038190/213760718-ca064723-1c29-4b82-985c-aadc7f57c090.gif" width="679.33px" height="148.51">
-<br><br>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=180&section=header&text=Hello!%20I'm%20Eva&fontColor=ffffff&fontSize=45" alt="Hello! I'm Eva" />
 </p>
