@@ -9,11 +9,11 @@
 -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.gif" width="100%" height="8px" />
-</p
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=180&section=header&text=Hello!%20I'm%20Eva&fontColor=ffffff&fontSize=45" alt="Hello! I'm Eva" />
+</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=180&section=header&text=Hello!%20I'm%20Eva&fontColor=ffffff&fontSize=45" alt="Hello! I'm Eva" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=805&height=44&lines=I%20am%20an%20aspiring%20AI%2FML%20and%20Full%20Stack%20Web%20Developer" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
