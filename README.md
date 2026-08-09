@@ -15,7 +15,7 @@
 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=180&section=header&text=Hello!%20I'm%20Eva&fontColor=ffffff&fontSize=45" alt="Hello! I'm Eva" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ad66f0&height=180&section=header&text=Hello!%20I'm%20Eva&fontColor=ffffff&fontSize=45" alt="Hello! I'm Eva" />
 </p>
 
 <p align="center">
