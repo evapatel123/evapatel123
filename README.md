@@ -82,15 +82,16 @@ Check out my Latest blogs! : https://hashnode.com/@evapatel123
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=evapatel123&show_icons=true&theme=tokyonight&title_color=0891b2&icon_color=0891b2&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=evapatel123&layout=compact&theme=tokyonight&title_color=0891b2&icon_color=0891b2&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=evapatel123&show_icons=true&theme=tokyonight&title_color=ad66f0&icon_color=ad66f0&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=evapatel123&layout=compact&theme=tokyonight&title_color=ad66f0&icon_color=ad66f0&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
+
 ---
 
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=evapatel123&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=evapatel123&bg_color=00000000&color=ad66f0&line=ad66f0&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
 ---
@@ -102,4 +103,4 @@ Check out my Latest blogs! : https://hashnode.com/@evapatel123
 </p>
 
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/evapatel123">evapatel123</a></i></p> 
+<p align="center"><i>⭐️ From <a href="https://github.com/evapatel123">evapatel123</a></i></p>
