@@ -38,7 +38,7 @@
 🌱 &nbsp;I'm currently learning **Rust, Java and advanced SQL**  
 👯 &nbsp;I'm looking to collaborate on **more interesting projects**  
 😄 &nbsp;Pronouns: **she/her**  
-⚡ &nbsp;More points to add: **I am also a graphic designer, and a technical blog writer for freeCodeCamp**
+⚡ &nbsp;More points to add: **I am also a graphic designer, and a technical blog/article writer for freeCodeCamp**
 
 Check out my Latest blogs! : https://hashnode.com/@evapatel123, https://www.freecodecamp.org/news/how-to-build-a-basic-discord-bot-with-python
 
