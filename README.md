@@ -88,14 +88,6 @@ Check out my Latest blogs! : https://hashnode.com/@evapatel123, https://www.free
 
 ---
 
-### 📈 Contribution Graph
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=evapatel123&bg_color=00000000&color=ad66f0&line=ad66f0&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
-</p>
-
----
-
 ### 💭 Dev Quote
 
 <p align="center">
