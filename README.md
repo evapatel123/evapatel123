@@ -35,7 +35,7 @@
 ### 🚀 About Me
 
 🔭 &nbsp;I'm currently working on **an application**  
-🌱 &nbsp;I'm currently learning **Rust, Java and advanced SQL**  
+🌱 &nbsp;I'm currently learning **Java and advanced SQL**  
 👯 &nbsp;I'm looking to collaborate on **more interesting projects**  
 😄 &nbsp;Pronouns: **she/her**  
 ⚡ &nbsp;More points to add: **I am also a graphic designer, a technical blog/article writer for freeCodeCamp and just LOVE making simple one-page websites in my free time**
